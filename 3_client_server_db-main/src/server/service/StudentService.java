@@ -42,6 +42,8 @@ public class StudentService {
         
         return success;
     }
+
+    // TODO implementiraj metod add student
     
     // bussiness logic = poslovna logika
 //    public boolean addStudent(Student student) {
@@ -52,5 +54,10 @@ public class StudentService {
 //        onda uradi insert i commit
 //        i vrati klijentu poruku da je student sacuvan
 //    }
+
+
+    // TODO implementiraj metodu find student by id
+
+    // TODO implementiraj metodu find student by index
     
 }
